@@ -4,3 +4,5 @@ to clear : clear
 to check status : git status
 to add file to index in order to commit : git add file name
 to add all the file present in the folder : git add -A
+to commit change : git commit -m "write your commit msg"
+to commit changes made in all the files : git commit -a -m "your message"
