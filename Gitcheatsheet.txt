@@ -1,0 +1,5 @@
+to clone : git remote add origin "https link"
+to pull : git pull origin master
+to clear : clear
+to check status : git status
+to add file in order to comit : git add file name
